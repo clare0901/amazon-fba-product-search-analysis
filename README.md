@@ -20,7 +20,7 @@ Following is the repository on the problem statement as given by KUBIXSQUARE
 **Collaborators**
 
 Sr. No.  | Name |LinkedIN|GitHub 
------------- | -------------
+------------ | ------------- | -----------
 01 |Lester Rodrigues| [LinkedIN]( https://www.linkedin.com/in/lester-rodrigues-2001/) |[Github](https://github.com/rodrigueslesterLML)
 02 |Clare Rebello | [LinkedIN](https://www.linkedin.com/in/clarerebello09/)|[Github]( https://github.com/clare0901)
 03 |Rahul Perera |  [LinkedIN](https://www.linkedin.com/in/rahul-pereira)|[Github](https://github.com/raulforreal)

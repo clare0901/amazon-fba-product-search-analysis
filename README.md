@@ -5,15 +5,15 @@ Following is the repository on the problem statement as given by KUBIXSQUARE
 **Problem Statement:** Amazon FBA product search analysis using ML. Suggestions should be provided where input from users will be taken using some parameters
 
 **Note:** 
-1. We are recommending clothes considering our dataset.
+We are recommending clothes considering our dataset.
 
 **Instructions:**
-1. Save a copy of the colab file in your drive. Download the dataset from the given link below.
+01. Save a copy of the colab file in your drive. Download the dataset from the given link below.
 [Click here](https://drive.google.com/drive/folders/1Ji6AJhtqSLBjoZiHub0pLJXnYvNOoCah?usp=sharing) 
 
-2. In the second block of code, you need to mount your google drive so that you can access the dataset directly from google colaboratory.
+02. In the second block of code, you need to mount your google drive so that you can access the dataset directly from google colaboratory.
 
-3. Run each and every block to get the final output.
+03. Run each and every block to get the final output.
 
 **Collaborators**
 

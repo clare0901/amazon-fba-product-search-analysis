@@ -17,7 +17,7 @@ We are recommending clothes considering our dataset.
 02. In the second block of code, you need to mount your google drive so that you can access the dataset directly from google colaboratory.
 03. Run each and every block to get the final output.
 
-### **Collaborators**
+### **Collaborators:**
 
 01. Lester Rodrigues | [LinkedIn]( https://www.linkedin.com/in/lester-rodrigues-2001/) | [Github](https://github.com/rodrigueslesterLML)
 02. Clare Rebello | [LinkedIn](https://www.linkedin.com/in/clarerebello09/) | [Github]( https://github.com/clare0901)

@@ -2,7 +2,7 @@
 
 Following is the repository on the problem statement as given by KUBIXSQUARE
 
-**Problem Statement:** 
+### **Problem Statement:** 
 
 Amazon FBA product search analysis using ML. Suggestions should be provided where input from users will be taken using some parameters
 

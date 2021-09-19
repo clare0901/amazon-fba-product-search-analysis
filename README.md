@@ -1,4 +1,4 @@
-# Amazon FBA product recommendation system
+# Amazon FBA Product Recommendation System
 
 Following is the repository on the problem statement as given by KUBIXSQUARE
 
@@ -17,7 +17,7 @@ We are recommending clothes considering our dataset.
 
 **Collaborators**
 
-01. Lester Rodrigues| [LinkedIN]( https://www.linkedin.com/in/lester-rodrigues-2001/) |[Github](https://github.com/rodrigueslesterLML)
+01. Lester Rodrigues | [LinkedIN]( https://www.linkedin.com/in/lester-rodrigues-2001/) |[Github](https://github.com/rodrigueslesterLML)
 02. Clare Rebello | [LinkedIN](https://www.linkedin.com/in/clarerebello09/)|[Github]( https://github.com/clare0901)
 03. Rahul Perera |  [LinkedIN](https://www.linkedin.com/in/rahul-pereira)|[Github](https://github.com/raulforreal)
 04. Deepak Sawalka| [LinkedIN](https://www.linkedin.com/in/deepak-sawalka-b609381b9/)|[Github](https://github.com/DEEPAK-92130)
